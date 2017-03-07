@@ -11,7 +11,7 @@ Your access to and use of the Service is conditioned on your acceptance of and c
 
 By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. Our Terms & Conditions was created with TermsFeed.
 
-**Links To Other Web Sites((
+**Links To Other Web Sites**
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by MS Mod App.
 
