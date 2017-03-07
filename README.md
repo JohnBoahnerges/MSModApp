@@ -1,4 +1,4 @@
-# MS TOS
+# MS Terms of Service
 Mystical Survival "Terms of Service"
 
 **Terms of Service ("Terms")**
