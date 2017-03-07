@@ -1,4 +1,4 @@
-# MSModApp
+# MS TOS
 Mystical Survival "Terms of Service"
 
 **Terms of Service ("Terms")**
